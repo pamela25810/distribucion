@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/navigation_plantas"
+        android:icon="@mipmap/clientes"
+        android:enabled="true"
+        android:title="@string/title_plantas"
+        app:showAsAction="ifRoom"
+        />
+
+
+    <item
+        android:id="@+id/navigation_evaluacion"
+        android:icon="@mipmap/carrito_vent"
+        android:enabled="true"
+        android:title="@string/title_evaluacion"
+        app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/navigation_informacion"
+        android:icon="@mipmap/carrito_vent"
+        android:enabled="true"
+        android:title="@string/title_info"
+        app:showAsAction="ifRoom"
+        />
+
+
+
+
+</menu>

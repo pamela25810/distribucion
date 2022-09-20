@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ventas</string>
+    <string name="qullana_uta">Qullaña Uta</string>
+    <string name="title_plantas">Clientes</string>
+    <string name="title_evaluacion">Ventas</string>
+    <string name="title_info">Información</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

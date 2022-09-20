@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="fondo_principal">#5BE3E3</color>
+    <color name="fondo_secundario">#15A6E9</color>
+    <color name="background_menu_principal">#DDDDDD</color>
+
+    <color name="fondo_menu_principal">#F5F5F5</color>
+    <color name="fondo_calendar_disabled">#D7E6ED</color>
+    <color name="color_texto_calendar_disabled">#95BACC</color>
+    <color name="fondo_calendar_enabled">#15A6E9</color>
+    <color name="color_texto_calendar_enabled">#F2F2F2</color>
+
+    <color name="background_general">#FCFCFE</color>
+    <color name="background_check_menu">#7cb342</color>
+    <color name="background_uncheck_menu">#9D9C9C</color>
+    <color name="background_sombra_menu">#9D9C9C</color>
+
+    <color name="background_login">#D7E6ED</color>
+    <color name="textcolor_login">#95BACC</color>
+    <color name="background_color_login">#15A6E9</color>
+
+    <color name="text_color_menu">#6F6F6E</color>
+    <color name="border_color_circle">#DDDDDD</color>
+
+    <color name="color_conducta_feliz">#7BBAF0</color>
+    <color name="color_conducta_triste">#FB779F</color>
+    <color name="color_conducta_sancion">#79D4C2</color>
+
+
+    <color name="color_pensiones">#FECB56</color>
+    <color name="color_permisos">#5BE3E3</color>
+    <color name="color_horario">#7A8AFB</color>
+    <color name="color_calendario">#FB779F</color>
+    <color name="color_normas">#FEAF62</color>
+    <color name="color_profesores">#79D4C2</color>
+    <color name="color_registro_medico">#A3ACED</color>
+    <color name="color_lista_materiales">#F89EB1</color>
+    <color name="color_informacion_hijo">#7BBAF0</color>
+
+    <color name="color_cancelado_pago">#79D4C2</color>
+    <color name="color_vencido_pago">#FB779F</color>
+    <color name="color_pendiente_pago">#7BBAF0</color>
+
+    <color name="color_button_permiso">#FB779F</color>
+    <color name="color_button_enviar_permimso">#3E76E8</color>
+
+    <color name="color_button_horario">#7BBAF0</color>
+
+    <color name="color_linear_materia_ingles">#F89EB1</color>
+
+    <color name="color_linear_materia_lenguaje">#FEAF62</color>
+    <color name="color_linear_materia_matematicas">#7BBAF0</color>
+    <color name="color_linear_materia_quimica">#79D4C2</color>
+    <color name="color_linear_materia_ciencias_naturales">#5BE3E3</color>
+    <color name="color_linear_materia_sociales">#7A8AFB</color>
+    <color name="color_linear_materia_fisica">#272C52</color>
+    <color name="color_linear_materia_psicologia">#F89EB1</color>
+    <color name="color_linear_materia_artes_plasticas">#79D4C2</color>
+    <color name="color_linear_materia_educacion_fisica">#7BBAF0</color>
+    <color name="color_linear_materia_artes_musica">#7A8AFB</color>
+    <color name="color_linear_materia_tecnica_vocacional">#79D4C2</color>
+    <color name="color_linear_materia_oratoria">#7BBAF0</color>
+    <color name="color_linear_materia_contabilidad">#7A8AFB</color>
+
+    <color name="color_linear_recreo">#FB779F</color>
+
+    <color name="color_linear_calendario">#7A8AFB</color>
+
+    <color name="color_calendario_lunes">#FB779F</color>
+    <color name="color_calendario_martes">#FEAF62</color>
+    <color name="color_calendario_miercoles">#79D4C2</color>
+    <color name="color_calendario_jueves">#FECB56</color>
+    <color name="color_calendario_viernes">#7BBAF0</color>
+    <color name="color_calendario_sabado">#FFD7D7</color>
+
+    <color name="color_button_registro_medico">#44BAF1</color>
+
+    <color name="color_registro_medico_peso">#7A8AFB</color>
+    <color name="color_registro_medico_estatura">#7BBAF0</color>
+    <color name="color_registro_medico_tipo_sangre">#FB779F</color>
+    <color name="color_registro_medico_alergias">#A3ACED</color>
+    <color name="color_registro_medico_vacunas">#FEAF62</color>
+
+    <color name="color_notoficacion_uno">#7A8AFB</color>
+    <color name="color_notoficacion_dos">#FB779F</color>
+    <color name="color_notoficacion_tres">#44BAF1</color>
+
+    <color name="color_button_lista_materiales_inactivo">#D7E6ED</color>
+    <color name="color_button_lista_materiales_activo">#15A6E9</color>
+    <color name="color_text_lista_materiales">#95BACC</color>
+
+    <color name="color_linear_lista_materiales_libros">#7A8AFB</color>
+    <color name="color_linear_lista_materiales_cuadernos">#FEAF62</color>
+    <color name="color_linear_lista_materiales_utiles_esc">#F89EB1</color>
+    <color name="color_linear_lista_materiales_otros">#79D4C2</color>
+
+    <color name="color_linear_lista_materiales_descripcion">#FB779F</color>
+
+    <color name="color_materia_fisica">#FFD7D7</color>
+    <color name="color_materia_matematicas">#7A8AFB</color>
+    <color name="color_materia_quimica">#F89EB1</color>
+    <color name="color_materia_lenguaje">#5BE3E3</color>
+    <color name="color_materia_historia">#A3ACED</color>
+    <color name="color_materia_c_naturales">#FECB56</color>
+    <color name="color_materia_psicologia">#79D4C2</color>
+    <color name="color_materia_artes">#FFD7D7</color>
+    <color name="color_materia_musica">#272C52</color>
+    <color name="color_materia_religion">#F89EB1</color>
+    <color name="color_materia_ingles">#FB779F</color>
+    <color name="color_materia_e_fisica">#A3ACED</color>
+
+</resources>
